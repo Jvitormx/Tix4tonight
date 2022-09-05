@@ -1,0 +1,129 @@
+Maria - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('ddddd', 'sfsf@dfsgg', '12345678Ab!', 'Admin') - 05/04/2022 - 13:21:35
+Maria - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('jkhkhkjhk', 'dfsd@fdhgfh', '4567890Ad#', 'Comum') - 05/04/2022 - 13:22:27
+Maria - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('nljljk', 'fgfgf@bbvb', 'sfhfhfhTy7@', 'Comum') - 05/04/2022 - 13:24:28
+Pedro - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('Asa', 'ddd@gggg', '12345678Ad@', 'Comum') - 05/04/2022 - 15:46:34
+Pedro - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('uuuuuu', 'tttt@ffffff', '3454665AAd#', 'Admin') - 05/04/2022 - 17:00:12
+Pedro - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('gjhjhjhj', 'dfgdgd@htfgh', 'gfgdfgfhf!56A', 'Comum') - 05/04/2022 - 17:01:49
+ - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('', '', '', '') - 15/04/2022 - 08:49:36
+ - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('', '', '', '') - 21/04/2022 - 17:08:32
+ - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('', '', '', '') - 21/04/2022 - 17:38:38
+ - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('João Vitor Marques Xavier', 'Jvitormx@gmail.com', 'John.1234', '') - 21/04/2022 - 19:12:55
+ - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('qqqq', 'qqq@gmail.com', 'Qqq10', 'Comum') - 27/04/2022 - 12:00:48
+ - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('qqqq', 'qqqz@gmail.com', 'Zz0', 'Comum') - 27/04/2022 - 12:02:25
+ - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('q', 'q@gmail.com', 'Qwe15', 'Comum') - 27/04/2022 - 12:07:03
+ - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('q1', 'q1@gmail.com', 'qqQ13', 'Comum') - 27/04/2022 - 12:08:55
+ - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('q11', 'q11@gmail.com', 'Qqq1', 'Comum') - 27/04/2022 - 12:09:12
+q - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('qq31', 'q113@gmail.com', 'Qq00', 'Comum') - 27/04/2022 - 12:18:33
+qq313ArrayArray - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('qq313', 'q1313@gmail.com', 'Qw000', 'Comum') - 27/04/2022 - 12:20:05
+qq3132q12313@gmail.comQq88 - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('qq3132', 'q12313@gmail.com', 'Qq88', 'Comum') - 27/04/2022 - 12:23:17
+Jorrge - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Jorrge', 'Jorgee@gmail.com', 'Jorge123', 'Comum') - 27/04/2022 - 12:25:57
+Qww - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Qww', 'Qw@gmail.com', 'Qw1234', 'Comum') - 28/04/2022 - 13:20:10
+Qqqq - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Qqqq', 'Qqq@gmail.com', 'Qq000', 'Comum') - 28/04/2022 - 19:54:00
+Felipe - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Felipe', 'Felipe@gmail.com', 'Felipe22', 'Comum') - 28/04/2022 - 19:55:26
+Mod - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Mod', 'Moderador1@gmail.com', 'Mod123', 'Comum') - 28/04/2022 - 20:00:12
+Louro José  - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Louro José ', 'jorge123@gmail.com', 'Jj1234567', 'Comum') - 24/05/2022 - 01:09:05
+Louro José  - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('Louro José ', 'jorge123@gmail.com', 'Jj1234567', 'Comum') - 24/05/2022 - 01:09:20
+jdisd - INSERT INTO usuarios (nome, email, senha, acesso) VALUES ('jdisd', 'qwertt@gmail.com', 'Tanjiro123', 'Comum') - 31/05/2022 - 14:06:10
+fkewf - INSERT INTO idCliente (nome, email, senha, acesso) VALUES ('fkewf', 'hopper@gmail.com', 'Qwert.123', 'Comum') - 31/05/2022 - 14:44:00
+fkewf - INSERT INTO idCliente (nome, email, senha, acesso) VALUES ('fkewf', 'hopper@gmail.com', 'Qqq123', 'Comum') - 31/05/2022 - 14:45:24
+fkewf - INSERT INTO idCliente (nome, email, senha, acesso) VALUES ('fkewf', 'hopper@gmail.com', 'Qqq123', 'Comum') - 31/05/2022 - 14:45:38
+fuoef - INSERT INTO idCliente (nome, email, senha, acesso) VALUES ('fuoef', 'qqWq@gmail.com', 'Qww123', 'Comum') - 31/05/2022 - 14:54:23
+osffd - INSERT INTO idCliente (nome, email, senha, acesso) VALUES ('osffd', 'jvitromxz@gmail.com', 'Q12345', 'Comum') - 31/05/2022 - 14:55:20
+Qwerty - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Qwerty', 'Qwerty@gmail.com', 'Qwerty12345', 'Comum') - 31/05/2022 - 15:02:18
+Qqqqqw - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Qqqqqw', '12345678', empresa@gmail.com', 'Empresa1234') - 31/05/2022 - 19:28:50
+Qqqqqw - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Qqqqqw', '', empresa@gmail.com', 'Empresa12345') - 31/05/2022 - 19:29:04
+Qqqqqw - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Qqqqqw', '', empresa@gm.com', 'M12345') - 31/05/2022 - 19:29:32
+empresa - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('empresa', '13579123', Jvitormx@gmail.com', 'Empresa137') - 31/05/2022 - 19:32:33
+Wwwww - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Wwwww', '12345678', Jvitormx@gmail.com', 'Qw12345') - 31/05/2022 - 21:51:45
+gfg - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('gfg', '12345678', qwerty@gmail.com', 'Qw12390') - 31/05/2022 - 22:06:44
+qeWww - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('qeWww', '12345678', Jvitormmx@gmail.com', 'Qwerty12345') - 31/05/2022 - 22:09:17
+dsdsd - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('dsdsd', 'Jvitormmmx@gmail.com', 'Qwerty123890', 'Comum') - 31/05/2022 - 22:10:12
+gfgyerg - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('gfgyerg', '12345678', Jvitormmmmx@gmail.com', 'Ww12345') - 31/05/2022 - 22:22:40
+qeWww - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('qeWww', '2345678', Jvitormcmx@gmail.com', 'Aaa123') - 01/06/2022 - 02:09:23
+Bruno - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Bruno', '13570001', bruno@gmail.com', 'Bruno123') - 01/06/2022 - 11:57:27
+dhnusod - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('dhnusod', '12345678', Jvitormx@gmail.com', 'Qw12345') - 01/06/2022 - 20:34:58
+Jkkk - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Jkkk', '12345678', x@gmail.com', '123Jkk') - 01/06/2022 - 21:41:20
+Jkkk - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Jkkk', '', x@gmail.com', 'lllllllll') - 01/06/2022 - 21:41:33
+Jkkk - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Jkkk', '12345899', x@gmail.com', 'Qaz1234') - 01/06/2022 - 21:42:45
+João Vitorrr - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('João Vitorrr', 'jvitor00@gmail.com', 'Jvitor1234', 'Comum') - 01/06/2022 - 21:44:41
+tgrfg - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('tgrfg', '12345678', Moderador3@gmail.com', 'Qw13579') - 01/06/2022 - 22:17:23
+fdgw - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('fdgw', '12345678', qq@gmail.com', 'Qq12345678') - 02/06/2022 - 12:12:11
+fdgw - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('fdgw', '', qq@gmail.com', 'Qw3456') - 02/06/2022 - 12:14:11
+Qwwwe - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Qwwwe', 'Qwe@gmail.com', 'Qwer123', 'Comum') - 02/06/2022 - 12:23:44
+jhhdsvjksd - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('jhhdsvjksd', 'jyedgdas@gmail.com', '123456789', 'Comum') - 03/06/2022 - 10:21:32
+bruno - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('bruno', '14321234', hgjhdgjdw@gmail.com', 'gjgdjhfddsfdggs') - 03/06/2022 - 10:23:22
+João Vitor Marques Xavier - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('João Vitor Marques Xavier', '12345678', zzz@gmail.com', 'Zzz123') - 05/06/2022 - 19:47:08
+ - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Aaaaa', '12345677889997', zzz@gmail.com', 'Zzzzq12345') - 05/06/2022 - 19:51:11
+ - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('Aaaaa', '12345677889997', zzz@gmail.com', 'Zzzzq12345') - 05/06/2022 - 19:51:24
+ - INSERT INTO Organizador (nome, email, cnpj, senha) VALUES ('', ', '75837953750375', '') - 05/06/2022 - 20:00:04
+ - INSERT INTO Organizador (nome, email, cnpj, senha) VALUES ('', ', '', '') - 05/06/2022 - 20:01:26
+ - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('', '', ', '') - 05/06/2022 - 20:02:50
+joao - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('joao', '12222222', Moderadorr1@gmail.com', 'Q12345tttt') - 05/06/2022 - 20:05:04
+joao - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('joao', '12222222', Moderadorr1@gmail.com', 'Q12345tttt') - 05/06/2022 - 20:05:14
+joao - INSERT INTO Organizador (nome, cnpj, email, senha) VALUES ('joao', '12222222', Moderadorr1@gmail.com', 'Q12345tttt') - 05/06/2022 - 20:06:51
+ujfidjfiodf - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('ujfidjfiodf', 'ssss@gmail.com', '$2y$10$ap1G1w5oAYBg68jJIAxHEug9rrws5C3GOh8ipBWh8j3UsXuHC.ONe', 'Comum') - 07/06/2022 - 12:32:58
+ujfidjfiodf - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('ujfidjfiodf', 'ssss@gmail.com', '$2y$10$viKVnijaCIAw76/hKk6Z7.lkNxkUp5rX1XEY77gfa6qoUeuFszJA6', 'Comum') - 07/06/2022 - 12:33:17
+gfdjfis - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('gfdjfis', 'jjj@gmail.com', '$2y$10$ALlZAwMONz8F.B13pucBrey6Z3xC6fAt.N7KqHBp66KbnegEyd7dm', 'Comum') - 07/06/2022 - 12:35:25
+fdfdf - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('fdfdf', 'dddq@gmail.com', '$2y$10$ise.nqc.VrkmPOAEghCvR.pGHEeoNLTwKZKKRkKX7JBiVRAhiLAF6', 'Comum') - 07/06/2022 - 12:36:37
+fdfdf - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('fdfdf', 'dddq@gmail.com', '$2y$10$SC/xSoqwrJNRfMSOy9hnZeFmnHhzULJKVhz/VfRfWSlI0dTrLTgTy', 'Comum') - 07/06/2022 - 12:36:50
+fdfdf - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('fdfdf', 'dddq@gmail.com', '$2y$10$dcYnpjlVF.mpkoxLUoORteV1gMn4cxo5c.ldh5is3t5DCOsnsCroW', 'Comum') - 07/06/2022 - 12:37:03
+Aaaqq - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Aaaqq', 'aaqq@gmail.com', '$2y$10$dOYQ7L2PYkSv0p1Rh5GPGu9GuFEofUBQsBMXW27Rzbm0G7XPruZLq', 'Comum') - 07/06/2022 - 12:38:24
+Aqqqq - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Aqqqq', 'Aqq@gmail.com', '$2y$10$Xzkk/TFYbunAFXpcIGY9Bu6RzfbnFQ0psQVxovvg0ZGb4oy26OFh2', 'Comum') - 07/06/2022 - 12:44:04
+Aqqqqq - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Aqqqqq', 'Aqqq@gmail.com', '$2y$10$ybWAgP9t/fMHYd6lVcLSzeRJ5k6qh9qhXGnUXN19.r6bsDHh3VCJ.', 'Comum') - 07/06/2022 - 12:45:53
+sajsd - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('sajsd', 'Addd@gmail.com', '$2y$10$jCpHJyn73iSEt9zqHs733O3ZL.uLXS7gOS/RoPPfBQwi1Ci4/sHq6', 'Comum') - 07/06/2022 - 12:50:16
+sajsdd - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('sajsdd', 'Adddq@gmail.com', '$2y$10$rCvz4iAE9b9sUgG/8obv5.Vri2Ar66avclcpIxV0ouBa.JQszstj6', 'Comum') - 07/06/2022 - 12:52:44
+fgsrfg - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('fgsrfg', 'sss@gmail.com', '$2y$10$J/qP.g58iO1UzsTF1/TKY.s4LZJP9rlqmaJbkIcw5nS0RzBGni2TW', 'Comum') - 07/06/2022 - 14:00:12
+Akkk - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Akkk', 'Akk@gmail.com', '$2y$10$SFdlJMQDzRTsikEUOOZmQObjJn6/ZCCfbIdZvM.HR1O6xPXCayJny', 'Comum') - 08/06/2022 - 12:05:47
+Avv - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Avv', 'Avv@gmail.com', '$2y$10$OLx5cKWemMnvAAqfAdkhcehRNSAGhSEdKoJduTXsQfzhGmADyRKR.', 'Comum') - 08/06/2022 - 12:19:45
+Abb - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Abb', 'Abb@gmail.com', 'Abb1234', 'Comum') - 08/06/2022 - 12:30:22
+Luis - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Luis', 'luis@gmail.com', 'Lus123', 'Comum') - 11/06/2022 - 05:53:17
+qwwe - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('qwwe', 'qwwe@gmail.com', '$2y$10$3FQb0nn/NVP2uLfv891w5e/a22W5xEQoLXwXvDCcdKoPm90Ierodm', 'Comum') - 13/06/2022 - 18:20:17
+Zzzz - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Zzzz', 'Zzzz@gmail.com', '$2y$10$fjiCZx35b1smgf8.GMyvJO6xUiNqnikwA6d7dbQOYZ/IcW6hkcR3y', 'Comum') - 13/06/2022 - 18:27:54
+Sss - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Sss', 'Ssz@gmail.com', '$2y$10$xg5KpIMg0ltn.fhOP48/xeKOjbJdguOg7xTnccBHmFrBBSYECXB/m', 'Comum') - 13/06/2022 - 18:36:39
+Zxc - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Zxc', 'Zxc@gmail.com', '$2y$10$2Z5i3cMRLn4oIgeTTgQJIu0uhf0ESZfI6n9MKufKGDNAYNkAqTUqK', 'Comum') - 13/06/2022 - 18:41:26
+Zyon - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Zyon', 'Zyon@gmail.com', '$2y$10$1O/121AXdT7M6RPiiCox3uTHaEdtkvyGPXWprvsmZmhGfG.cGtkmy', 'Comum') - 13/06/2022 - 18:47:06
+Vvv - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Vvv', 'Vvv@gmail.com', '$2y$10$7TbSd6UvhgwoyddSRAvx.OrBOexAwKeTee6lfAaJ8r3zsCv5i3DT2', 'Comum') - 13/06/2022 - 18:50:26
+ddd - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('ddd', 'ddd@gmail.com', '$2y$10$hJcI8.5Cv6bV.c7PxTSJ6eo8KHZthl3xgySrQ1oGzpA8uRUYZ8/uW', 'Comum') - 13/06/2022 - 19:33:25
+ddde - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('ddde', 'ddde@gmail.com', '', 'Comum') - 13/06/2022 - 19:36:09
+dddee - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('dddee', 'dddee@gmail.com', '$2y$10$6uGv9Eqj0Yx8hm9bl2jJ9.fGcB3OuolESvKmuMQ7RpSqcU9OVAMgK', 'Comum') - 13/06/2022 - 19:36:59
+nnnn - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('nnnn', 'nnnn@gmail.com', '$2y$10$HoV9S4gLRh9hao7wkrsckuyxKkHg5lTbwb7nxyjnQyTW40N9M45L2', 'Comum') - 13/06/2022 - 19:44:29
+sss - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('sss', 'sss@gmail.com', '$2y$10$kcmK.KFVb6C.mBJ2WgA.QerqB6/xHG2bi7uDYJeeCVINxfdLfk6kS', 'Comum') - 22/06/2022 - 12:55:30
+Cliente - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Cliente', 'cliente@gmail.com', '$2y$10$3wqDwMTrIe7NjHNmm34t7e5QKUZt0rrStNUKM5rwJ1MooyLMYIa3O', 'Comum') - 08/07/2022 - 21:41:19
+cliente2 - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('cliente2', 'cliente2@gmail.com', '$2y$10$KWBY0.h70n301/GrIR25p./vel8yrZMFZe6t6pUy.JSD0byCkNmFu', 'Comum') - 10/07/2022 - 13:53:43
+cliente3 - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('cliente3', 'cliente3@gmail.com', '$2y$10$UsxpevI6vmJKFoir/dxftOAdFe8H/iNfFGkgvHGd7jBZ2tlzVMJ4O', 'Comum') - 10/07/2022 - 14:02:32
+Cliente4 - INSERT INTO Cliente (nome, email, senha, acesso) VALUES ('Cliente4', 'cliente4@gmail.com', '$2y$10$OwN/lS75dX3XEZypk7VZEOcTC0B0.V9kf4SBapCPIpoHTrgA4NiZq', 'Comum') - 10/07/2022 - 14:12:22
+Cliente2 - INSERT INTO Cliente (nome, email, senha, acesso, status) VALUES ('Cliente2', 'Cliente2@gmail.com', '$2y$10$xjJOT/sEVsymsw.gp62YYO6BUaX7F0QYY/Tsc2jGH1uFAJWVAbN86', 'Comum', 'Ativo') - 28/07/2022 - 20:02:47
+cliente3 - INSERT INTO Cliente (nome, email, senha, acesso, status) VALUES ('cliente3', 'cliente3@gmail.com', '$2y$10$Nc3.vl9WNYrzPCBeIxUneObVVYNoQ2/cZ47iJvQMrbTyB56Z86Xwq', 'Comum', 'Ativo') - 28/07/2022 - 20:29:56
+Cliente4 - INSERT INTO Cliente (nome, email, senha, acesso, status) VALUES ('Cliente4', 'Cliente4@gmail.com', '$2y$10$W61XW.Pc8tZfeFDzka52yeZIoO4G3uUKrfxLt7Ll3YdlkpWeKexYS', 'Comum', 'Ativo') - 29/07/2022 - 16:08:23
+tixteste3 - INSERT INTO cliente (nome, email, senha, acesso, status) VALUES ('tixteste3', 'tix4tonightt@gmail.com', '$2y$10$DrV84IWM0zRIXeJhBvFuhOTOaMlCJb2WqmfWVmQETtmbraC0ZHE46', 'Comum', 'Ativo') - 10/08/2022 - 08:53:42
+oooo - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('oooo', 'Jvitormx@gmail.com', '$2y$10$lPcjkX6EvNCQuLQdFsk8.ejq56M2GoLTiDL.3CO5oIr9ivOTmSU2a', 'Comum', 'aguardando', 65447429) - 10/08/2022 - 09:27:43
+Oooo - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('Oooo', 'Jvitormx@gmail.com', '$2y$10$PIa2y/hqRQVnCelgd2EBcuTlfg3vnncWyWgqYeLcgwiIbrTHeDRmG', 'Comum', 'aguardando', 52504132) - 10/08/2022 - 09:33:04
+tixteste7 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste7', 'org23@gmail.com', '$2y$10$czvItATXKB5GojQsKpEVPO93SHsAY3e4kPT0MBgJkKoCqMgxeEmnO', 'Comum', 'aguardando', 51024089) - 10/08/2022 - 09:35:36
+tixteste8 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste8', 'jvitormx@gmail.com', '$2y$10$w/QhXzLhhdztv4CUmDPBVuDh6etATbDbGck4zM4bi.wQGE/3G3D42', 'Comum', 'aguardando', 57477274) - 10/08/2022 - 09:36:23
+tixteste9 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste9', 'jvitormx@gmail.com', '', 'Comum', 'aguardando', 36176676) - 10/08/2022 - 10:23:08
+tixteste10 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste10', 'jvitormx@gmail.com', '$2y$10$l/B/fxGDVQE/hRfNmO4mZOsVajcWUsBUaIWmKPjq/KJgpLKFyabvu', 'Comum', 'aguardando', 91517090) - 10/08/2022 - 10:27:02
+jvitor - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitor', 'Jvitormx@gmail.com', '$2y$10$5wMz230F9yVnARLOh.nP.OFUyii8HHxRAr/keskJ1DQRf.BMbfGGu', 'Comum', 'aguardando', 64758970) - 11/08/2022 - 19:41:33
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$K8Fmz9BEPtv2sTPXSNHuQOB6bxHNyS743lZijjua2DVk2eKjRMBve', 'Comum', 'aguardando', 84967936) - 11/08/2022 - 19:51:43
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$pgrFE/VYozMOe5beKj1EUO/Oy45mjfFQOJMpejMUwN8233vmY35W6', 'Comum', 'aguardando', 29979338) - 11/08/2022 - 19:52:32
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$nfmrOyXIFf228xXi2xSSBuCr7aw8ZRNDmPADPUcfeYhnPHbWxmtJK', 'Comum', 'aguardando', 95784540) - 11/08/2022 - 19:54:27
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$925mhi/QD5C5UNeJz4YJiO6gD6HRYqUqOEkUioIpbFyiKh6Wn0FNW', 'Comum', 'aguardando', 75028372) - 11/08/2022 - 19:58:20
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$2qMF2ZODoqNe0I3TIKbU.uHxnXoHKtDCyNL81fTbtPX9HU.8jDkVO', 'Comum', 'aguardando', 69498652) - 11/08/2022 - 19:59:37
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$p2sXrWQ5CURd7MxFD2Kep.GX2tAbhxI5dYKFc7BzaYPEMRWiY9A1W', 'Comum', 'aguardando', 18866570) - 11/08/2022 - 20:03:36
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$3VkZF4RLizyKPa5FYi6xyuLaRwVLjzfDsWIFb49Z./lZ4A2mHWc3u', 'Comum', 'aguardando', 23306746) - 11/08/2022 - 20:07:03
+tixteste2 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste2', 'tixteste2@gmail.com', '$2y$10$29MdNQzMaU631cc2eCcfT.7wg.Nl1ll7dcT5PTfuFK9TWEY/3d/JS', 'Comum', 'aguardando', 99481557) - 11/08/2022 - 21:05:31
+tixteste2 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste2', 'tixteste2@gmail.com', '$2y$10$8F8q4WB.l36wCjsaB7/EkeC8hG8Gi4Ym3fqLqI0WXagkKKF6zyE4u', 'Comum', 'aguardando', 14688897) - 11/08/2022 - 21:08:55
+tixteste2 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste2', 'tixteste2@gmail.com', '$2y$10$TweZHyQL/4ntaW.PwVIecOpSRjox82n9HuLQRFxlIKsNzWVrsoGta', 'Comum', 'aguardando', 14781490) - 11/08/2022 - 21:13:30
+tixteste2 - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('tixteste2', 'tixteste2@gmail.com', '$2y$10$0Bt8PGYKkFwZsCTGX730wOKLfKeskMj/MBf0pJ78oWC/ooMWSn0HC', 'Comum', 'aguardando', 26425435) - 11/08/2022 - 21:15:09
+jvitorx - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorx', 'jvitormx@gmail.com', '$2y$10$dR5QESFSr/eA6DM.2XxFaOFYkYRhyHfbyHVEf6sy3YmvF4i/06saS', 'Comum', 'aguardando', 12893434) - 12/08/2022 - 22:27:37
+joaoo - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('joaoo', 'jvitormx@gmail.com', '$2y$10$dkxVkju9Usod.CgVDIsPGerca5eAuRUgFqaGCx.RcHhZ3krm64OVO', 'Comum', 'aguardando', 86119846) - 23/08/2022 - 15:05:46
+oooo - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('oooo', 'ooo@gmail.com', '$2y$10$TOfQ.HhXFzs2ZLaTyWm6SupUUkyr2k6Jat0LsxwIqcMcF3BJMe0bG', 'Comum', 'aguardando', 64335764) - 25/08/2022 - 23:17:11
+Admin - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('Admin', 'admin@gmail.com', '$2y$10$lSffeIPcwKBL4jmUoCtK5eM5XbqeI/06ehaTIFxZ/esgK.nzQ.U96', 'Comum', 'aguardando', 51529644) - 26/08/2022 - 17:27:11
+Renan Corrente - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('Renan Corrente', 'Cheizxcrod@gmail.com', '$2y$10$TZYR73/Pr6DYgOmmKX7mYOWpwFKdxaTAvi.JBfHUj6bYd1McMud8q', 'Comum', 'aguardando', 21375032) - 27/08/2022 - 23:29:22
+Renan - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('Renan', 'perxcrod@gmail.com', '$2y$10$5QogIy/4N7z3inP.tF88menyCDX6GPOC4RC9Ii0rlvYYg3siCKclO', 'Comum', 'aguardando', 74329297) - 27/08/2022 - 23:30:04
+jvitorxz - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorxz', 'Aaaz@gmail.com', '$2y$10$EdaKQEM07caRtHeaOlgCKegug/OeI/7HaxpDNc8xaKMBb.mKwIAdO', 'Comum', 'aguardando', 13371450) - 29/08/2022 - 00:51:05
+jvitorxz - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('jvitorxz', 'Aaazz@gmail.com', '$2y$10$EsKfMfcG/0GbnWyd239naOIs/VvF38uPU/VmZnOyVR7Rp1lq9SM6S', 'Comum', 'aguardando', 34439945) - 29/08/2022 - 00:51:22
+jvitorx - INSERT INTO organizador (nome, email, senha, cnpj, acesso, status, validador) VALUES ('jvitorx', 'Jvitormx@gmail.com', '$2y$10$RYmBXrysyKIJT1LC0GZwOeYQLaEK9HiGbZZOQrFugAXTNDq7DLkHO', '42412434', 'Org', 'aguardando', 73812476 ) - 31/08/2022 - 17:16:52
+wesley - INSERT INTO organizador (nome, email, senha, cnpj, acesso, status, validador) VALUES ('wesley', 'wesleyorg@gmail.com', '$2y$10$u5z0lytZP2vZuGu2I5GtDehhXf3NPgLf2xdRmZVxLBzUKIXI1Vm5.', '21423543', 'Org', 'aguardando', 31336317 ) - 02/09/2022 - 10:28:55
+qwqwq - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('qwqwq', 'qwqw@gmail.com', '$2y$10$7bCDrVJPPB0DfSjPoTOvNOvtAHZAUb2OFgnFHiNN7ZCJUfvFsfVs.', 'Comum', 'aguardando', 11942095) - 04/09/2022 - 12:08:58
+qwqwe - INSERT INTO cliente (nome, email, senha, acesso, status, validador) VALUES ('qwqwe', 'qwqwe@gmail.com', '$2y$10$HyCT1FA6XVCc/gKVahSOkOKzQ6iTvGUuJPGud1fPCnLbhwz7Djzc.', 'Comum', 'aguardando', 37687553) - 04/09/2022 - 12:09:46
+Org999 - INSERT INTO organizador (nome, email, senha, cnpj, acesso, status, validador) VALUES ('Org999', 'Org999@gmail.com', '$2y$10$lk0IQkJUyn9axXZs7AoHHuIgGflYVTYXas3pqNmDSNJ2k1r41A1AW', '5454656', 'Org', 'aguardando', 32744955 ) - 04/09/2022 - 12:19:15

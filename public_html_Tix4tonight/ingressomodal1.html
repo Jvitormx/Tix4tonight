@@ -1,0 +1,82 @@
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <title>Bootstrap 5 Modal</title>
+    <style>
+        .button--pandora {
+	background: #000;
+	font-weight: 700;
+	padding: 0;
+	border-radius: 5px;
+}
+
+.button--pandora span {
+	display: block;
+	background: #fff;
+	padding: 40px;
+  width:45px;
+  height:45px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	transform: translate3d(-4px, -4px, 0);
+	transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+}
+
+.button--pandora:hover span {
+	transform: translate3d(-8px, -8px, 0);
+}
+        
+        .required:after {
+            content: "*";
+            color: red;
+        }
+    </style>
+	<script src="jquery-3.1.1.min.js"></script>
+<script src="index2.js"></script>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <button type="button" class="button button--pandora" data-bs-toggle="modal" data-bs-target="#myModal"><span>+</span></button>
+        <div class="modal" id="myModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Crie um tipo de ingresso</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="" id="ingressotipo">
+                            <div class="mb-3">
+                                <label class="form-label required">Escreva o titulo</label>
+                                <input type="text" class="form-control" name="Tipo">
+                            </div>
+                            
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="myFunction2()" id="definir1" class="btn btn-primary">Criar</button>
+						<script>
+function myFunction2() {
+  alert("Ingresso criado! !");
+}
+</script>
+                        <button type="submit" class="btn btn-danger">Confirmar</button>
+						</form>
+						
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+	
+</body>
+
+</html>
